@@ -81,6 +81,6 @@ A análise espacial demonstrou que:
 
 ## 📘 Acesso ao Relatório Completo
 
-[**Relatório – Análise Espacial da Dengue no Nordeste (2024)**](Relatório_Final_Paulo.pdf)
+[**Relatório – Análise Espacial da Dengue no Nordeste (2024)**](Relatorio_Final_Paulo.pdf)
 
 
