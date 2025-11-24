@@ -84,3 +84,9 @@ A análise espacial demonstrou que:
 [**Relatório – Análise espacial de pacientes com dengue com sinais de alarme e dengue grave no Nordeste (2024)**](Relatorio_Final_Paulo.pdf)
 
 
+
+## 👤 Autor
+
+**Paulo Antônio Martins Silva**  
+Graduando em **Estatística** — Universidade Federal de Sergipe (UFS)  
+Interesses: **análise de dados**, **risco de crédito**, **inadimplência** e **dados de saúde**. 
